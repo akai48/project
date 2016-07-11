@@ -1,0 +1,22 @@
+/*
+本工程共用的一些样式
+*/
+/*
+图片上按钮的热区
+*/
+/*input*/
+.hot-spot-input {
+    font-family: PingFangSC-Light;
+    font-size: 14px;
+    background: transparent;
+    border: 0;
+    position: absolute;
+    z-index: 100;
+}
+/*
+button
+*/
+.hot-spot-btn {
+    position: absolute;
+    z-index: 100;
+}
